@@ -1,6 +1,6 @@
 # Ultimate Quiz Challenge
 
- 🎯 Overview
+## 🎯 Overview
 The **Ultimate Quiz Challenge** is a dynamic web-based quiz application built with **React, Tailwind CSS, and Framer Motion**. It features interactive quizzes, real-time scoring, a countdown timer, gamification elements, and a celebratory confetti effect for perfect scores.
 
 ## 🚀 Features
@@ -16,24 +16,25 @@ The **Ultimate Quiz Challenge** is a dynamic web-based quiz application built wi
 - **React** (Functional Components & Hooks)
 - **Tailwind CSS** (Styling)
 - **Framer Motion** (Animations)
-- **React Confetti** (Celebratory effect upon getting a perfect score) 
+- **React Confetti** (Celebratory effect)
 - **External API** (JSON-based questions)
 
- Installation & Setup
-
-Clone the repository:
-
-git clone https://github.com/yourusername/Testline_QuizWebApp.git
-
-Navigate to the project folder:
-
-cd Testline_QuizWebApp
-
-Install dependencies:
-
-npm install
-
-Start the development server:
+## 📦 Installation & Setup
+1. Clone the repository:
+   ```sh
+   git clone https://github.com/your-username/Testline_QuizWebApp.git
+   ```
+2. Navigate to the project folder:
+   ```sh
+    cd Testline_QuizWebApp
+   ```
+3. Install dependencies:
+   ```sh
+   npm install
+   ```
+4. Start the development server:
+   ```sh
+   npm start
    ```
 
 ## 📄 Usage
@@ -44,13 +45,4 @@ Start the development server:
 - **Confetti animation** appears if you score a perfect **40/40**.
 
 
-## 🛠 Future Enhancements
-- 🔹 **Leaderboard system**
-- 🔹 **User authentication**
-- 🔹 **More question categories**
-- 🔹 **Dark mode toggle**
-
-
-
-⭐ If you like this project, don't forget to **star** it on GitHub!
 
