@@ -19,22 +19,21 @@ The **Ultimate Quiz Challenge** is a dynamic web-based quiz application built wi
 - **React Confetti** (Celebratory effect upon getting a perfect score) 
 - **External API** (JSON-based questions)
 
-## 📦 Installation & Setup
-1. Clone the repository:
-   ```sh
-   git clone https://github.com/your-username/quiz-app.git
-   ```
-2. Navigate to the project folder:
-   ```sh
-   cd quiz-app
-   ```
-3. Install dependencies:
-   ```sh
-   npm install
-   ```
-4. Start the development server:
-   ```sh
-   npm start
+ Installation & Setup
+
+Clone the repository:
+
+git clone https://github.com/yourusername/Testline_QuizWebApp.git
+
+Navigate to the project folder:
+
+cd Testline_QuizWebApp
+
+Install dependencies:
+
+npm install
+
+Start the development server:
    ```
 
 ## 📄 Usage
