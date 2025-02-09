@@ -50,7 +50,7 @@ While hovering on the DNA icon, a fun fact about DNA is displayed!
 ## 📦 Installation & Setup
 1. Clone the repository:
    ```sh
-   git clone https://github.com/your-username/Testline_QuizWebApp.git
+   git clone https://github.com/suhana3010/Testline_QuizWebApp.git
    ```
 2. Navigate to the project folder:
    ```sh
