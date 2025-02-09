@@ -25,6 +25,7 @@ This is a dynamic web-based quiz application built with **React, Tailwind CSS, a
 ![Home Page](https://github.com/suhana3010/Testline_QuizWebApp/blob/master/home_UI.png?raw=true) 
 
 ### 🌟Interactive DNA Icon on Home Page 
+While hovering on the DNA icon, a fun fact about DNA is displayed!
 ![Home Page](https://github.com/suhana3010/Testline_QuizWebApp/blob/master/onClick_DNA_icon.png?raw=true)
 
 ### 📝 Quiz Interface
