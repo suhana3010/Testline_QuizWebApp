@@ -1,7 +1,7 @@
 # Ultimate Quiz Challenge
 
 ## 🎯 Overview
-The **Ultimate Quiz Challenge** is a dynamic web-based quiz application built with **React, Tailwind CSS, and Framer Motion**. It features interactive quizzes, real-time scoring, a countdown timer, gamification elements, and a celebratory confetti effect for perfect scores.
+This is a dynamic web-based quiz application built with **React, Tailwind CSS, and Framer Motion**. It features interactive quizzes, real-time scoring, a countdown timer, gamification elements, and a celebratory confetti effect for perfect scores.
 
 ## 🚀 Features
 - 🎨 **Modern UI** with animated transitions (Framer Motion)
